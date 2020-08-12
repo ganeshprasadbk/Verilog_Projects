@@ -4,5 +4,5 @@ It is implemented in ZEDBoard->Zynq-7000
 
 Codes folder contains all the source codes
 To open the project directly in Vivado (if you have Vivado 2018 or above)
-1) Download & unrar Vivado_Project.rar
+1) Download all parts of Vivado_Project.rar & unrar each part into the same folder 
 2) Double-click & open Variable_Square_wave_generator.xpr  (Path: ~\Variable_Square_wave_generator\Variable_Square_wave_generator.xpr)
