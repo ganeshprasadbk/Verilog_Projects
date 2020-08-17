@@ -1,0 +1,1 @@
+The above Verilog code is for parameterized Johnson counter implemented using behavioral modelling
